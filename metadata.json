@@ -1,0 +1,7 @@
+{
+  "name": "Rivals AFK Tactical Command",
+  "description": "A high-performance gaming dashboard UI designed to complement the Rivals-AFK-Helper project. Features real-time status monitoring, screen analysis, and AI-powered strategy insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
